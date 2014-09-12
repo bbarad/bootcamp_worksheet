@@ -1,8 +1,8 @@
 ---
-author:
-- UCSF Bootcamp 2014
+layout: default
+author: UCSF Bootcamp 2014
 title: Purification Paper Worksheet
-...
+---
 
 Each of the papers that you are reading focus on expressing, purifying
 and analyzing a protein or complex. These are a few guiding questions to
